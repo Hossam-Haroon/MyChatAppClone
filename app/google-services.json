@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "454940723673",
+    "project_id": "chatappclone-7cd4a",
+    "storage_bucket": "chatappclone-7cd4a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454940723673:android:9a6362d09da539adb671c8",
+        "android_client_info": {
+          "package_name": "com.example.chattingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClYwYwPooePBW_zs72IOQ_inxatzV7dNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454940723673:android:391ca9c10afc5ddeb671c8",
+        "android_client_info": {
+          "package_name": "com.example.mychatappclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClYwYwPooePBW_zs72IOQ_inxatzV7dNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
